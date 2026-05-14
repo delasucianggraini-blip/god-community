@@ -11,16 +11,19 @@ const PAYOUT_USERS = [
   "Rara139269", "maybekiseee", "miidefendi17", "mattttzy7", "agstayen",
   "Doffar_91", "Sannji53", "GodStoreOFC", "Adhelapow", "Pelloss123",
   "BotiBiji22", "Abayyy0404", "probocilepep", "Aerick2019", "ZerSkyy_123",
-  "ketahuanngocok", "Snow_EmperorR"
+  "ketahuanngocok", "Snow_EmperorR", "xtrott", "WhoEllish", "JevonBanks7",
+  "TIKnTOD", "syasyayayaynud", "Tayy0n9", "varzhy6", "bertanya5anya",
+  "aditzla21", "FTPGEOO", "Hayumiryuka", "Jeffsmith_algibran", "RgilBoboyy",
+  "BlackyyBoyss", "s32alex", "ciemati6", "REZZ_KW2", "panglima5502",
+  "JustV1nzz", "chelyuki2", "Delgodelllll", "SiAtung87", "mantok86gg",
+  "ucyiku", "VILENzzzS"
 ]
 
 const BELUM_USERS = [
-  "xtrott", "WhoEllish", "JevonBanks7", "TIKnTOD", "syasyayayaynud",
-  "Tayy0n9", "varzhy6", "bertanya5anya", "aditzla21", "FTPGEOO",
-  "Hayumiryuka", "Jeffsmith_algibran", "RgilBoboyy", "BlackyyBoyss",
-  "s32alex", "ciemati6", "REZZ_KW2", "panglima5502", "JustV1nzz",
-  "chelyuki2", "Delgodelllll", "SiAtung87", "mantok86gg", "ucyiku",
-  "VILENzzzs"
+  "Hayumiryuka2", "sanholddd", "Darmha13", "hermionestly", "handisyh",
+  "ATANN_BOY", "KiyoraKiyora2", "KARR4YOU", "moon_rcf", "pigo_wlee",
+  "kajoeng16", "chikonim27", "xvinnx01", "sakuraadia", "cipay962",
+  "tlvklejhn", "heybabble1", "kachaan001", "afandifayyadh", "DerZzSstecu"
 ]
 
 type Status = "idle" | "payout" | "belum" | "tidak_terdaftar"
